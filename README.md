@@ -1,5 +1,5 @@
 # googledocdarkmode
-crappy darkmode implementation for google doc outline written on an airplane
+crappy darkmode implementation for google doc chrome extention
 
 
 # its really bad
